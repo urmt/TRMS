@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marketplace</title>
+    <link rel="stylesheet" href="TRMS css- MarketPlace">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the $MRT Marketplace</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">Cart</a></li>
+                <li><a href="#">Login</a></li>
+                <li><a href="#">Register</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="featured-products">
+            <h2>Featured Products</h2>
+            <!-- Display some featured products here -->
+        </section>
+
+        <section class="popular-products">
+            <h2>Popular Products</h2>
+            <!-- Display some popular products here -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 $MRT Marketplace. All rights reserved.</p>
+    </footer>
+</body>
+</html>
